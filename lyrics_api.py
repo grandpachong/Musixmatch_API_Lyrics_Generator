@@ -2,7 +2,7 @@
 base_url = "https://api.musixmatch.com/ws/1.1/"
 
 # API key
-api_key = "&apikey=793f55a3344d7ccff384cb5ea44448c7"
+api_key = "&apikey=Paste_Your_API_Key_Here"
 
 # API Methods
 a1 = lyrics_matcher = "matcher.lyrics.get"
