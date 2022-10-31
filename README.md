@@ -1,4 +1,4 @@
-# Musixmatch API Lyrics Generator Project using Python
+# Musixmatch API Lyrics Generator using Python
 
 This is my first project which is still a work in progress. I hope to add more to this project as I gain more knowledge and my skills improve. Using Musixmatch open source API, constant Googling, and countless video tutorials helped me make this.
 
